@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
+//newchage
 public class loginActivity extends AppCompatActivity {
     private EditText Name, Password;
     private Button btnLogin;
